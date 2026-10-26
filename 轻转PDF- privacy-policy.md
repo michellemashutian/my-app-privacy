@@ -2,11 +2,11 @@
 
 **Last Updated: October 25, 2026**
 
-轻转PDF (QingZhuan PDF) respects your privacy and is committed to protecting your personal information.
+轻转PDF (Easy PDF - File Converter) respects your privacy and is committed to protecting your personal information.
 
 **Data Collection and Storage**
 
-轻转PDF does not collect, store, transmit, or share any personal data.
+轻转PDF (Easy PDF - File Converter) does not collect, store, transmit, or share any personal data.
 
 All files processed through the app, including photos, Excel spreadsheets, Word documents, text files, and generated PDFs, are handled locally on your device and are never uploaded to external servers.
 
