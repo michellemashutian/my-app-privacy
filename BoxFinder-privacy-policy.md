@@ -1,4 +1,4 @@
-# BoxFinder / 盒物记 — Privacy Policy / 隐私政策
+# BoxMemo - Storage Organizer / 盒物记 — Privacy Policy / 隐私政策
 
 [English](#english) · [简体中文](#简体中文)
 
