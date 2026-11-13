@@ -82,7 +82,7 @@
 
 **开发者：** Shutian Ma 
 
-**支持邮箱：** [SUPPORT_EMAIL_HERE](mailto:mashutian0608@hotmail.com)
+**支持邮箱：** [mashutian0608@hotmail.com](mailto:mashutian0608@hotmail.com)
 
 ---
 
@@ -178,4 +178,4 @@ For questions about privacy or your local data, contact:
 
 **Developer:** Shutian Ma 
 
-**Support email:** [SUPPORT_EMAIL_HERE](mailto:mashutian0608@hotmail.com)
+**Support email:** [mashutian0608@hotmail.com](mailto:mashutian0608@hotmail.com)
